@@ -4,7 +4,7 @@
 - In-demand skills🔥
 - Where high demand meets high salary in Data Science 📈
 
-🔎SQL Queries? Check them out here: [project_sql folder](/sql_load/project_sql/)
+🔎SQL Queries? Check them out here: [project_sql folder](/project_sql/)
 # Background
 Driven by a quest to navigate the Data Scientist job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others to find optimal jobs. 
 
