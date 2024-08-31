@@ -1,5 +1,5 @@
 /*
-Question: What nare the top paying skills based on salary?
+Question: What are the top paying skills based on salary?
 - Look at the average salary associated with each skill for Data Scientist positions
 - Focuses on roles with specified salaries, regardless of location
 - Why? It reveals how different skills impact salary levels for Data Scientists and 
