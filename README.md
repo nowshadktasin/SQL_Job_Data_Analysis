@@ -8,14 +8,14 @@
 # Background
 Driven by a quest to navigate the Data Scientist job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others to find optimal jobs. 
 
-Data is collected from [Luke Barousse's SQL Course](/https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+Data is collected from [Luke Barousse's SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The Questions I tried to answer through my SQL Queries were:
-- [What are the top-paying remote data scientist jobs?](/sql_load/project_sql/1_top_paying_jobs.sql)
-- [What skills are required for the top-paying remote data scientist jobs?](/sql_load/project_sql/2_top_paying_job_skills.sql)
-- [What are the most in-demand skills for Data Scientists?](/sql_load/project_sql/3_top_demanded_skills.sql)
-- [What are the top paying skills based on salary?](/sql_load/project_sql/4_top_paying_skills.sql)
-- [What are the most optimal skills to learn (aka it's in high demand and a high paying skill)?](/sql_load/project_sql/5_most_optimal_skills.sql)
+- [What are the top-paying remote data scientist jobs?](/project_sql/1_top_paying_jobs.sql)
+- [What skills are required for the top-paying remote data scientist jobs?](/project_sql/2_top_paying_job_skills.sql)
+- [What are the most in-demand skills for Data Scientists?](/project_sql/3_top_demanded_skills.sql)
+- [What are the top paying skills based on salary?](/project_sql/4_top_paying_skills.sql)
+- [What are the most optimal skills to learn (aka it's in high demand and a high paying skill)?](/project_sql/5_most_optimal_skills.sql)
 # Tools I used
 For my deep dive into the Data Scientist job market, I harnessed the power of several key tools:
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights
