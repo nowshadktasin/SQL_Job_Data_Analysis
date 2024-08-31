@@ -76,7 +76,7 @@ Based on the provided data for the top 10 paying data scientist jobs, here are s
 3. **Salary Range**:
    - The salary for top remote data scientist roles spans from $300,000 to $550,000, indicating a wide range for compensation based on role specialization and responsibility.
 
-![Top Paying Jobs](/sql_load/assets/image%20(1).png)
+![Top Paying Jobs](/assets/image%20(1).png)
 *Bar graph visualizing the salary for the top 5 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 
@@ -123,7 +123,7 @@ ORDER BY
 - Skills like **Hadoop**, **Tableau**, and **Azure** are less common but appear in specific job titles.
 
 
-![Top Paying Skills](/sql_load/assets/image.png)
+![Top Paying Skills](/assets/image.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data scientists; ChatGPT generated this graph from my SQL query results*
 
 ## 3. In-Demand Skills for Data Scientists
