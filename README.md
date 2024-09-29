@@ -1,3 +1,6 @@
+
+# Data Science Job Analysis with SQL
+
 # Introduction
 📊 Dive into the data job market! Focusing on Data Scientist roles, this project explores
 - Top-paying jobs 💰
